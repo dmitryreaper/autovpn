@@ -1,2 +1,2 @@
-# autovpn script - это анонимайзер, который настраивает iptables и tor для маршрутизации всех сервисов и трафика, включая DNS, через сеть Tor.
-* Работает только на Linux
+# autovpn script is an anonymizer that configures iptables and tor to route all services and traffic, including DNS, through the Tor network.
+* Works only on Linux
